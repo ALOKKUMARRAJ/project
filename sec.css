@@ -1,0 +1,23 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+P.A{
+  background-color: yellow;
+
+
+   direction: rtl;
+   text-indent: 50px;
+   text-decoration: underline;
+
+}
+p{
+	background-color: green;
+
+
+}
